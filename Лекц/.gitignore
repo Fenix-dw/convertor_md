@@ -1,0 +1,9 @@
+﻿# ігнорувати всі файли PowerPoint
+*.pptx
+*.ppt
+*.doc
+*.lnk
+*.pdf
+*.docx
+source/
+рис/

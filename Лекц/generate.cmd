@@ -1,0 +1,1 @@
+ python C:\xampp\htdocs\convertor_md\read.py "C:\xampp\htdocs\convertor_md\Лекц\README.md"
